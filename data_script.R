@@ -18,4 +18,19 @@ data<- data.frame(sex=c("F","M","F"),
                  region= c("a","b","c"))
 
 
-data_frame<- data
+
+#<<<<<<< HEAD
+
+#data_frame<- data
+#=======
+# creating conflic
+
+#dat<-data
+
+                  
+#>>>>>>> 83d8a76426203a13dcb04649b8c86d19b958269c
+
+
+# Conclict resolved
+
+dat<-data
