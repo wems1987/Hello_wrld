@@ -15,4 +15,7 @@ data<- data.frame(sex=c("F","M","F"),
                   age=c(10,50,60),
                   marital= c("married","single",
                              "married"),
-                 region= c("a","b","c")
+                 region= c("a","b","c"))
+
+
+data_frame<- data
